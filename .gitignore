@@ -1,0 +1,16 @@
+#Creado por: Luis Tul
+#Archivos a ignorar
+
+#ignorar archivos de Microsoft Word
+*.doc
+*.docx
+
+#ignorar archivos de Microsoft Excel
+*.xls
+*.xlsx
+
+#ignorando todos los archivos con extension gif
+*.gif
+
+#ignorar la carpeta configuracion
+configuracion/
